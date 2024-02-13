@@ -10,7 +10,7 @@ export default StyleSheet.create({
     },
 
     productCards: {
-        flex: 1,
+        flex: 1, //flex oldugundan en alttaki urun karti 2 kartlik yer kapliyor.
         flexDirection: 'column',
         backgroundColor: '#ebeff1',
         height: windowHeight / 3,
